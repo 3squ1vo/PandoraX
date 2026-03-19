@@ -1,5 +1,7 @@
 # 🤖 Pandora a assistente mais fora da curva que você pode usar.
 
+🌍 *Read this in other languages:* [English](README_en.md) | [Português](README.md)
+
 > *"A assistente virtual que vai te ajudar no dia a dia, mas que com certeza vai arrancar boas risadas no processo."*
 
 ---
