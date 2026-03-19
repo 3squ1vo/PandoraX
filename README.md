@@ -68,8 +68,12 @@ pip install -r requiements.txt
 
 ---
 
-☕ Apoie esse Projeto
+## ☕ Apoie esse Projeto
 
 Se a Pandora lhe ajudou no seu dia-a-dia (ou lhe fez sorrir com o seu sarcasmo), me ajude pagando um café só para me dar mais motivação de continuar o meu, seu e nosso projeto (nossa que comunista, né?!? kkkkkk)
 
-**PIX:** ```sua chave aqui``` e, como diz um meme **R$5,00 pra fazer caridade**
+[![Apoie via LivePix](https://img.shields.io/badge/Apoie_via-LivePix-00E676?style=for-the-badge&logo=pix&logoColor=white)](https://dashboard.livepix.gg/3squivo)
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/3squ1vo)
+
+E, como diz um meme **5,00 'reau' pra fazer caridade**
