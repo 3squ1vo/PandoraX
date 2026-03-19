@@ -1,0 +1,15 @@
+# Arquivos de senhas e chaves API
+config.py
+.env
+
+# Caches de áudio e arquivos temporários da Pandora
+cache_audios/
+temp_audio.wav
+
+# Lixo de compilação do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais (caso use no futuro)
+venv/
+env/
