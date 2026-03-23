@@ -74,8 +74,6 @@ pip install -r requiements.txt
 
 If Pandora helped you in your daily life (or made you smile with her sarcasm), help me out by buying me a coffee to give me more motivation to continue my, your, and our project (wow, that sounds communist, right?!? lol). 
 
-[![Apoie via LivePix](https://img.shields.io/badge/Apoie_via-LivePix-00E676?style=for-the-badge&logo=pix&logoColor=white)](https://dashboard.livepix.gg/3squivo)
-
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/3squ1vo)
 
 And as the gamer meme goes: **Toss a coin to your dev!**
