@@ -79,3 +79,5 @@ If Pandora helped you in your daily life (or made you smile with her sarcasm), h
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/3squ1vo)
 
 And as the gamer meme goes: **Toss a coin to your dev!**
+
+Note: It has some problems, like a delay between the voice and the text, but this is something you (or I can fix, if I have the time), and about helping me out with a coffee, if you can't, that's totally fine, but if you can, I will be very grateful. Whether there are donations or not, I will give it my best, even with my studies (and yes, I do study, but I will give it my absolute best).
